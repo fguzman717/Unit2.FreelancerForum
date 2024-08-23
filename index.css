@@ -1,0 +1,50 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+li {
+  border: solid black;
+  margin: 1rem;
+}
+
+.Alice {
+  font: bold;
+}
+
+.Bob {
+  font: bold;
+}
+
+.Carol {
+  font: bold;
+}
+
+.Dylan {
+  font: bold;
+}
+
+.Eric {
+  font: bold;
+}
+
+.Francis {
+  font: bold;
+}
+
+.George {
+  font: bold;
+}
+
+.Helen {
+  font: bold;
+}
+
+.Ian {
+  font: bold;
+}
+
+.Joe {
+  font: bold;
+}
